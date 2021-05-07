@@ -6,7 +6,7 @@
 
 ## Hi, I'm Murilo Farias. Nice to meet you. 👋🏾
 
-*I am a student of Frontend programming. I have a great passion for user interface , design and creation of intuitive and dynamic user experiences. I just love what I do.❤️❤️*
+*I am a student of Frontend programming. I have a great passion for user interface , design and creation of intuitive and dynamic user experiences.
 
 Things I like to do:
 
