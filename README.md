@@ -6,7 +6,7 @@
 
 ## Hi, I'm Murilo Farias. Nice to meet you. 👋🏾
 
-I am a student of Frontend programming. I have a great passion for user interface , design and creation of intuitive and dynamic user experiences. Currently improving my Backend skills to be able to build more complex and improved systems.
+I am a student of Frontend and Backend programming. I have a great passion for user interface , design and creation of intuitive and dynamic user experiences. Currently improving my Backend skills to be able to build more complex and improved systems.
 
 Things I like to do:
 
@@ -15,5 +15,6 @@ Things I like to do:
 
 About me:
 
+- Software Developer New Associate at Accenture
 - 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/murilo-farias-545b011b5/), [My E-mail](mafap@ecomp.poli.br)
 ---
